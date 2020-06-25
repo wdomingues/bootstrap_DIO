@@ -21,3 +21,13 @@ body{
 .img{
     padding: 10px;
 }
+.img_padrao{
+    width: 100%;
+}
+.servicos{
+    color: white;
+    background-color: #F9A82A;
+    align-items: center;
+}
+.bgFooter{
+    background-color: grey;
