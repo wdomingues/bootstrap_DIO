@@ -13,3 +13,11 @@ body{
     padding-top: 30px;
     padding-bottom: 30px;
 }
+.parceiros{
+    color: white;
+    background-color: #1908FA;
+    align-items: center;
+}
+.img{
+    padding: 10px;
+}
